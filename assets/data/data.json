@@ -12,7 +12,7 @@
         "github": "https://github.com/ZarelaMC",
         "likedin": "https://linkedin.com/in/zarelamc"
     },
-    "about": "Soy una apasionada desarrolladora de software, así como del análisis de sistemas, la gestión de bases de datos y el aprendizaje continuo. Altamente responsable, autodidacta, creativa, con capacidad de resolución de problemas y desempeño eficiente en entornos desafiantes y trabajo en equipo.",
+    "about": "Soy una apasionada desarrolladora de software pero también disfruto de ramas como el análisis de sistemas, la gestión de bases de datos y porsupuesto del aprendizaje continuo. Altamente responsable, autodidacta, creativa, con capacidad de resolución de problemas y desempeño eficiente en entornos desafiantes y trabajo en equipo.",
     "technologies": [
         {
             "icon": "devicon-java-plain",
@@ -152,7 +152,7 @@
             "icon": "arrow-big-up",
             "title": "API RESTful con servicios SOAP y REST",
             "subtitle": "Servicios para consulta y transacciones en biblioteca",
-            "description": "API desarrollada en Java con servicios REST y SOAP para consultas y transacciones en un sistema de biblioteca",
+            "description": "API desarrollada en Java con servicios REST y SOAP para consultas y transacciones en el microservicio de Inventario para un sistema de biblioteca.",
             "technologies": [
                 {
                      "icon": "devicon-spring-original",
