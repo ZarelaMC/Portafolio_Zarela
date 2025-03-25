@@ -1,128 +1,196 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
+    "title": "Zarela Eugenia Manrique Condori | Portafolio",
     "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "image": "/avatar.webp",
+    "avatar": "/avatar.webp",
+    "name": "Zarela Eugenia Manrique Condori",
+    "skill": "Desarrolladora fullstack junior",
+    "location": "Lima, Perú",
     "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "email": "manriquecondorizarela@gmail.com",
+        "cv": "/data/CV_ManriqueCondoriZarelaEugenia.pdf",
+        "github": "https://github.com/ZarelaMC",
+        "likedin": "https://linkedin.com/in/zarelamc"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy una apasionada desarrolladora de software, así como del análisis de sistemas, la gestión de bases de datos y el aprendizaje continuo. Altamente responsable, autodidacta, creativa, con capacidad de resolución de problemas y desempeño eficiente en entornos desafiantes y trabajo en equipo.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-typescript-plain",
+            "name": "TypeScript"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-azuresqldatabase-plain",
+            "name": "Azure SQL"
         },
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-microsoftsqlserver-plain",
+            "name": "SQL Server"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+            "icon": "devicon-mysql-original",
+            "name": "MySQL"
+        },
+        {
+            "icon": "devicon-spring-original",
+            "name": "Spring"
+        },
+        {
+            "icon": "devicon-angular-plain",
+            "name": "Angular"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        },
+        {
+            "icon": "devicon-github-original",
+            "name": "GitHub"
+        },
+        {
+            "icon": "devicon-githubactions-plain",
+            "name": "GitHub Actions"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
+        },
+        {
+            "icon": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+        },
+        {
+            "icon": "devicon-angularmaterial-plain",
+            "name": "AngularMaterial"
+        },
+        {
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-rabbitmq-original",
+            "name": "RabbitMQ"
+        },
+        {
+            "icon": "devicon-postman-plain",
+            "name": "Postman"
+        },
+        {
+            "icon": "devicon-atom-original",
+            "name": "Insomnia"
         }
     ],
     "experience": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
+            "icon": "Puzzle",
+            "title": "PMI Lima Perú Chapter",
+            "subtitle": "Colaboradora del Equipo de Investigación y Desarrollo CoP",
             "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "date": "Junio 2024 - Diciembre 2024"
         }
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "icon": "shopping-cart",
+            "title": "“Sneakers Elegants”",
+            "subtitle": "Aplicación web empresarial",
+            "description": "Sistema con control de roles y sesiones para la gestión de ventas y reportes PDF desarrollado desde 0 con Java para el backend y Java .jsp en el frontend.",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-spring-original",
+                    "name": "Spring"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-mysql-original",
+                    "name": "Jasperreports"
+                },
+                {
+                    "icon": "devicon-mysql-original",
+                    "name": "MySQL"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "image": "/project_1.webp",
+            "url": "https://drive.google.com/drive/folders/1uwsirmpgK3XT1q9BUdNEi3v1CQKMEWBZ?usp=sharing",
+            "github": "https://github.com/ZarelaMC/Proyecto_-SneakersElegants_ADS-II_Ciclo-IV.git"
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "icon": "car-front",
+            "title": "“SeguriVehículo”",
+            "subtitle": "Aplicación web",
+            "description": "Sistema con control de roles y sesiones para la gestión de ingresos y salidas vehiculares de establecimientos y la generación de reportes en PDF desarrollado desde 0 con Java y TypeScript",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-spring-original",
+                    "name": "Spring"
+                },
+                {
+                    "icon": "devicon-angular-plain",
+                    "name": "Angular"
+                },
+                {
+                    "icon": "",
+                    "name": "JasperReports"
+                },
+                {
+                    "icon": "devicon-mysql-original",
+                    "name": "MySQL"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "/project_2.webp",
+            "url": "https://github.com/YheremiRamos/SeguriVehiculo_Back",
+            "github": "https://github.com/YheremiRamos/SeguriVehiculo_Front"
+            
+        },
+        {
+            "icon": "arrow-big-up",
+            "title": "API RESTful con servicios SOAP y REST",
+            "subtitle": "Servicios para consulta y transacciones en biblioteca",
+            "description": "API desarrollada en Java con servicios REST y SOAP para consultas y transacciones en un sistema de biblioteca",
+            "technologies": [
+                {
+                     "icon": "devicon-spring-original",
+                     "name": "Spring"
+                }
+            ],
+            "image": "/project_3.jpg",
+            "url": "https://www.canva.com/design/DAGiw62vbo0/Xo-x8YxJ57520qgHqNpzpA/edit?utm_content=DAGiw62vbo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+            "github": "https://github.com/lesliemarlo/DSWII_PROYECTO.git"
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Cibertec",
+            "subtitle": "Instituto de Educación Técnica Superior",
+            "description": "Técnico en Computación e Informática",
+            "date": "2022 - 2024"
         }
     ],
     "extras": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "image": "/CertificadoScrum.webp",
+            "title": "Scrum Foundation Professional Certification SFPC",
+            "description": "Me permitió validar habilidades clave para facilitar la adopción de metodologías ágiles en proyectos y mejorar la dinámica del equipo.",
+            "url": "#"
         },
         {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+            "image": "/CertificadoPMI.webp",
+            "title": "PMI Lima Perú Chapter",
+            "description": "Colaboré con el equipo en la difusión de herramientas tecnológicas de productividad y actué como moderadora en sesiones de guía para la adopción de metodologías ágiles y mejora de la eficacia en la entrega de proyectos.",
+            "url": "#"
         },
         {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "image": "/CertificadoRimac.webp",
+            "title": "Hackaton Rimac",
+            "description": "Colaboré con un equipo de 4 compañeros en un reto para desarrollar una web orientada a no-clientes. Fue una experiencia enriquecedora que me permitió explorar nuevas tecnologías y expandir mi perspectiva en mi campo de estudios.",
+            "url": "#"
         }
     ]
 }

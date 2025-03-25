@@ -1,14 +1,14 @@
 {
     "title": "Título",
     "description": "Descripción",
-    "image": "/favicon.ico",
-    "avatar": "/favicon.ico",
+    "image": "/zm.ico",
+    "avatar": "/zm.ico",
     "name": "Nombre",
     "skill": "Habilidad principal",
     "location": "Localización",
     "media": {
         "email": "email@email.com",
-        "cv": "/data/cv.pdf",
+        "cv": "/data/CV_ManriqueCondoriZarelaEugenia.pdf",
         "github": "https://github.com",
         "likedin": "https://linkedin.com"
     },
@@ -59,7 +59,7 @@
                     "name": "Tecnología"
                 }
             ],
-            "image": "/favicon.ico",
+            "image": "/zm.ico",
             "url": "https://google.com",
             "github": "https://github.com"
         },
@@ -78,7 +78,7 @@
                     "name": "Tecnología"
                 }
             ],
-            "image": "/favicon.ico",
+            "image": "/zm.ico",
             "url": "https://google.com",
             "github": "https://github.com"
         },
@@ -97,7 +97,7 @@
                     "name": "Tecnología"
                 }
             ],
-            "image": "/favicon.ico",
+            "image": "/zm.ico",
             "url": "https://google.com",
             "github": "https://github.com"
         }
@@ -114,19 +114,19 @@
     ],
     "extras": [
         {
-            "image": "/favicon.ico",
+            "image": "/zm.ico",
             "title": "Título",
             "description": "Descripción",
             "url": ""
         },
         {
-            "image": "/favicon.ico",
+            "image": "/zm.ico",
             "title": "Título",
             "description": "Descripción",
             "url": ""
         },
         {
-            "image": "/favicon.ico",
+            "image": "/zm.ico",
             "title": "Título",
             "description": "Descripción",
             "url": ""
